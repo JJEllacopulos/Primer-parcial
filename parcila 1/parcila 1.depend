@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1569497002 source:d:\1er parcial\parcila 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<ctime>
+	"rlutil.h"
+	"restricciones.h"
+	"OpcionesPasientes.h"
+	"OpcionesMedicos.h"
+	"OpcionesControles.h"
+	"OpcionesConfiguraciones.h"
+	"OpcionesReportes.h"
+	"OpcionesReportes_preparcial.h"
+	"menues.h"
+
+1567638330 d:\1er parcial\parcila 1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1569278108 d:\1er parcial\parcila 1\restricciones.h
+
+1569278034 d:\1er parcial\parcila 1\opcionespasientes.h
+
+1569277858 d:\1er parcial\parcila 1\opcionesmedicos.h
+
+1569439862 d:\1er parcial\parcila 1\opcionescontroles.h
+
+1569439918 d:\1er parcial\parcila 1\opcionesconfiguraciones.h
+
+1569502634 d:\1er parcial\parcila 1\opcionesreportes.h
+
+1569497188 d:\1er parcial\parcila 1\opcionesreportes_preparcial.h
+
+1569499960 d:\1er parcial\parcila 1\menues.h
+
